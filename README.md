@@ -1,3 +1,3 @@
 # gittest
-To check some git ops
-adding new line
+To check some git
+adding new line by modifiying this
